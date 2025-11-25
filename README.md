@@ -87,7 +87,7 @@ Formal statistical verification of RQ2 and RQ3.
 
 git clone https://github.com/WaterBear1234/UoY-Independent-Research-Project.git
 
-cd UoY-Independent-Research-Project.git
+cd UoY-Independent-Research-Project
 
 ### **Install dependencies** 
 
