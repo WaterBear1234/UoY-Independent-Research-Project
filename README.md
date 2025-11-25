@@ -29,7 +29,6 @@ To accomplish this, the project performs:
 **Result:**  
 H0 accepted for nearly all TSP instances **except pr107.tsp (cost)** where H1 is accepted.
 
----
 
 ### **RQ2: Best-Case MLP Tour Cost — BBO vs ACO vs GA**
 **H0:** No significant difference in best-case cost among BBO, ACO, and GA.  
@@ -38,7 +37,6 @@ H0 accepted for nearly all TSP instances **except pr107.tsp (cost)** where H1 is
 **Result:**  
 MWU test found **no significant difference** — H0 accepted.
 
----
 
 ### **RQ3: Best-Case Computation Time — BBO vs ACO vs GA**
 **H0:** No significant difference in computation time.  
