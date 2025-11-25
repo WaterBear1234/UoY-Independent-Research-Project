@@ -60,10 +60,9 @@ All `.tsp` files from TSPLIB95 stored in `/data`.
   - Computation time  
 
 ### **Step 3 — Shapiro–Wilk Normality Analysis**
-Determines whether:
+Determines which statistical test to use:
 - ANOVA (parametric)
 - Mann–Whitney U (nonparametric)  
-should be used.
 
 ### **Step 4 — ANOVA/MWU for RQ1**
 Tests whether BBO performance differs across its 10 parameter settings.
