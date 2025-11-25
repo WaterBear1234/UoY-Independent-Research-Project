@@ -20,40 +20,6 @@ To accomplish this, the project performs:
 
 ---
 
-## 📂 Repository Structure
-├── data/ → All .tsp MLP instances (lin105, lin318, pr107, etc.)
-│
-├── BBO-Parameter-Test/ → BBO runs on each MLP instance
-│ ├── *.ipynb Each file = 10 BBO parameter configurations
-│ Output: cost + computation time per run
-│
-├── Shapiro-Wilk-Test-All/ → Normality tests for all BBO runs (cost + time)
-│ └── Shapiro-Wilk-Test-All.ipynb
-│
-├── ANOVA-MWU-Test-Individual/ → Statistical tests for RQ1
-│ ├── Table 22.ipynb
-│ ├── Table 23.ipynb
-│ └── ... Table 30.ipynb Uses ANOVA or MWU depending on normality
-│
-├── Pareto-Front-Test-All/ → Identifies best-case BBO solutions
-│ └── Table 31_ Summary of Pareto-Front analysis.ipynb
-│
-├── Shapiro-Wilk-BBOvsACO/ → Normality tests for RQ2 & RQ3 (BBO vs ACO)
-│ └── Table 36.ipynb
-│
-├── Shapiro-Wilk-BBOvsGA/ → Normality tests for RQ2 & RQ3 (BBO vs GA)
-│ └── Table 33.ipynb
-│
-├── MWU-BBOvsACO/ → MWU comparison between BBO and ACO
-│ └── Table 37.ipynb
-│
-├── MWU-BBOvsGA/ → MWU comparison between BBO and GA
-│ └── Table 34.ipynb
-│
-└── README.md
-
----
-
 ## 🎯 Research Questions and Hypotheses
 
 ### **RQ1: Effect of BBO Parameter Configurations on MLP**
