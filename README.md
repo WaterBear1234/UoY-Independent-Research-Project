@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This project investigates three core objectives:
 
@@ -20,7 +20,7 @@ To accomplish this, the project performs:
 
 ---
 
-## 🎯 Research Questions and Hypotheses
+## Research Questions and Hypotheses
 
 ### **RQ1: Effect of BBO Parameter Configurations on MLP**
 **H0:** BBO performance does not significantly differ across parameter configurations.  
@@ -47,7 +47,7 @@ MWU test found **significant differences in time** — H1 accepted (BBO differs 
 
 ---
 
-## 🧪 Methodology Overview
+## Methodology Overview
 
 ### **Step 1 — Dataset Preparation**
 All `.tsp` files from TSPLIB95 stored in `/data`.
@@ -81,11 +81,12 @@ Formal statistical verification of RQ2 and RQ3.
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### **Clone the repository** 
 
 git clone https://github.com/WaterBear1234/UoY-Independent-Research-Project.git
+
 cd UoY-Independent-Research-Project.git
 
 ### **Install dependencies** 
@@ -94,7 +95,7 @@ pip install numpy tsplib95 random math time pandas scipy matplotlib jupyter
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### **Step 1 — Start Jupyter Notebook** 
 
@@ -114,7 +115,7 @@ MWU-BBOvsACO/ or MWU-BBOvsGA/ for algorithm comparison
 
 ---
 
-## 🧪 How to Use the Repository
+## How to Use the Repository
 
 ### **To test a new MLP instance** 
 
@@ -134,7 +135,7 @@ Repeat Steps 6–9 with the new algorithm’s cost/time results.
 
 ---
 
-## 👥 Credits
+## Credits
 
 Developed by **Bui Hoang My Linh**
 
@@ -144,6 +145,6 @@ Based on MLP results from **Mafort & Ochi (ACO)** and **Ban & Nguyen (GA)**
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
