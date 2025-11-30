@@ -50,7 +50,7 @@ MWU test found **significant differences in time** — H1 accepted (BBO differs 
 ## Methodology Overview
 
 ### **Step 1 — Dataset Preparation**
-All `.tsp` files from TSPLIB95 stored in `/data`.
+All .tsp files from TSPLIB95 stored in /data.
 
 ### **Step 2 — BBO Parameter Experiments**
 - 1 notebook per MLP instance  
@@ -84,13 +84,13 @@ Formal statistical verification of RQ2 and RQ3.
 
 ### **Clone the repository** 
 
-git clone https://github.com/WaterBear1234/UoY-Independent-Research-Project.git
+```bash git clone https://github.com/WaterBear1234/UoY-Independent-Research-Project.git ```
 
-cd UoY-Independent-Research-Project
+```bash cd UoY-Independent-Research-Project ```
 
 ### **Install dependencies** 
 
-pip install numpy tsplib95 random math time pandas scipy matplotlib jupyter
+```bash pip install numpy tsplib95 random math time pandas scipy matplotlib jupyter ```
 
 ---
 
@@ -98,7 +98,7 @@ pip install numpy tsplib95 random math time pandas scipy matplotlib jupyter
 
 ### **Step 1 — Start Jupyter Notebook** 
 
-jupyter notebook
+```bash jupyter notebook ```
 
 ### **Step 2 — Navigate to one of the project folders**
 
