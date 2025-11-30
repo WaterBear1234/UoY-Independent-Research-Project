@@ -84,13 +84,13 @@ Formal statistical verification of RQ2 and RQ3.
 
 ### **Clone the repository** 
 
-```bash git clone https://github.com/WaterBear1234/UoY-Independent-Research-Project.git ```
+```git clone https://github.com/WaterBear1234/UoY-Independent-Research-Project.git```
 
-```bash cd UoY-Independent-Research-Project ```
+```cd UoY-Independent-Research-Project```
 
 ### **Install dependencies** 
 
-```bash pip install numpy tsplib95 random math time pandas scipy matplotlib jupyter ```
+```pip install numpy tsplib95 random math time pandas scipy matplotlib jupyter```
 
 ---
 
@@ -98,7 +98,7 @@ Formal statistical verification of RQ2 and RQ3.
 
 ### **Step 1 — Start Jupyter Notebook** 
 
-```bash jupyter notebook ```
+```jupyter notebook```
 
 ### **Step 2 — Navigate to one of the project folders**
 
